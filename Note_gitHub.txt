@@ -1,0 +1,57 @@
+Microsoft Windows [Version 10.0.22000.1335]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Admin\Desktop>git clone https://github.com/vuongthanhtuyen/DuAnQLXe.git 
+Cloning into 'DuAnQLXe'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+C:\Users\Admin\Desktop>
+C:\Users\Admin\Desktop>cd DuAnQLXe 
+
+C:\Users\Admin\Desktop\DuAnQLXe>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+C:\Users\Admin\Desktop\DuAnQLXe>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Admin\Desktop\DuAnQLXe>git add .
+
+C:\Users\Admin\Desktop\DuAnQLXe>git commit -am "firsst commit"
+[main 30fa45d] firsst commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 helocacban.txt
+
+C:\Users\Admin\Desktop\DuAnQLXe> git config --global user,email "vuongthanhtuyen13579@gmail.com"
+error: key does not contain a section: user,email
+
+C:\Users\Admin\Desktop\DuAnQLXe> git config --global user.email "vuongthanhtuyen13579@gmail.com"
+
+C:\Users\Admin\Desktop\DuAnQLXe> git config --global user.name "vuongthanhtuyen"
+
+C:\Users\Admin\Desktop\DuAnQLXe>git commit -am "firsst commit"
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\Admin\Desktop\DuAnQLXe>git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 311 bytes | 51.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/vuongthanhtuyen/DuAnQLXe.git
+   3810439..30fa45d  main -> main
+
+C:\Users\Admin\Desktop\DuAnQLXe>

@@ -1,0 +1,40 @@
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.exe
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.deps.json
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.runtimeconfig.json
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.pdb
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.csproj.AssemblyReference.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fDangNhap.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.csproj.GenerateResource.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.AssemblyInfoInputs.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.AssemblyInfo.cs
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.csproj.CoreCompileInputs.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\refint\GiaoDien.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.pdb
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.genruntimeconfig.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\ref\GiaoDien.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fQuanLy.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fXeRa.resources
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.exe
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.deps.json
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.runtimeconfig.json
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.dll
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\bin\Debug\net6.0-windows\GiaoDien.pdb
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fDangNhap.resources
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fQuanLy.resources
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fXeRa.resources
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.csproj.GenerateResource.cache
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.AssemblyInfoInputs.cache
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.AssemblyInfo.cs
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.dll
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\refint\GiaoDien.dll
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.pdb
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.genruntimeconfig.cache
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\ref\GiaoDien.dll
+C:\Users\Administrator\Software\Visual Studio\source\repos\BaiCuoiKy_QuanLyNhaXe\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fAdmin.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\BaiCuoiKy_QuanLyNhaXe\GiaoDien\obj\Debug\net6.0-windows\GiaoDien.fAdmin.resources
