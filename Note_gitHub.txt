@@ -68,3 +68,5 @@ git push
  
 --> lấy git mới nhất về
 git pull 
+
+Tui lấy về thử xem sao
