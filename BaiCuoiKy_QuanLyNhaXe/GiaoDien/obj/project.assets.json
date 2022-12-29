@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\GiaoDien\\GiaoDien.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\GiaoDien\\GiaoDien.csproj",
       "projectName": "GiaoDien",
-      "projectPath": "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\GiaoDien\\GiaoDien.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\GiaoDien\\GiaoDien.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\GiaoDien\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\GiaoDien\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj": {}
   },
   "projects": {
-    "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj",
         "projectName": "DataBase",
-        "projectPath": "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\DataBase.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Học\\Học Tốt\\Học Trên Lớp\\Học Kì 4\\Lập Trình Hướng Đối Tượng\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Github\\DuAnQLXe\\BaiCuoiKy_QuanLyNhaXe\\DataBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
