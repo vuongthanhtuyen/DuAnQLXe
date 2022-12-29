@@ -71,3 +71,4 @@ git pull
 
 Tui lấy về thử xem sao
 Themfile new; in git
+Hoài chả thấy pull in git hub
