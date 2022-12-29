@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.txtTaiKhoan = new System.Windows.Forms.TextBox();
+            this.txtUsername = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnDangNhap = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.TxtMatKhau = new System.Windows.Forms.TextBox();
+            this.txtPassWord = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -42,7 +42,7 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.txtTaiKhoan);
+            this.panel1.Controls.Add(this.txtUsername);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(44, 22);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
@@ -50,13 +50,13 @@
             this.panel1.Size = new System.Drawing.Size(437, 58);
             this.panel1.TabIndex = 0;
             // 
-            // txtTaiKhoan
+            // txtUsername
             // 
-            this.txtTaiKhoan.Location = new System.Drawing.Point(176, 17);
-            this.txtTaiKhoan.Margin = new System.Windows.Forms.Padding(4);
-            this.txtTaiKhoan.Name = "txtTaiKhoan";
-            this.txtTaiKhoan.Size = new System.Drawing.Size(257, 30);
-            this.txtTaiKhoan.TabIndex = 1;
+            this.txtUsername.Location = new System.Drawing.Point(176, 17);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.Size = new System.Drawing.Size(257, 30);
+            this.txtUsername.TabIndex = 1;
             // 
             // label1
             // 
@@ -92,7 +92,7 @@
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.TxtMatKhau);
+            this.panel2.Controls.Add(this.txtPassWord);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Location = new System.Drawing.Point(44, 77);
             this.panel2.Margin = new System.Windows.Forms.Padding(4);
@@ -100,13 +100,13 @@
             this.panel2.Size = new System.Drawing.Size(437, 58);
             this.panel2.TabIndex = 2;
             // 
-            // TxtMatKhau
+            // txtPassWord
             // 
-            this.TxtMatKhau.Location = new System.Drawing.Point(176, 17);
-            this.TxtMatKhau.Margin = new System.Windows.Forms.Padding(4);
-            this.TxtMatKhau.Name = "TxtMatKhau";
-            this.TxtMatKhau.Size = new System.Drawing.Size(257, 30);
-            this.TxtMatKhau.TabIndex = 1;
+            this.txtPassWord.Location = new System.Drawing.Point(176, 17);
+            this.txtPassWord.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPassWord.Name = "txtPassWord";
+            this.txtPassWord.Size = new System.Drawing.Size(257, 30);
+            this.txtPassWord.TabIndex = 1;
             // 
             // label2
             // 
@@ -144,12 +144,12 @@
         #endregion
 
         private Panel panel1;
-        private TextBox txtTaiKhoan;
+        private TextBox txtUsername;
         private Label label1;
         private Button btnDangNhap;
         private Button btnThoat;
         private Panel panel2;
-        private TextBox TxtMatKhau;
+        private TextBox txtPassWord;
         private Label label2;
     }
 }

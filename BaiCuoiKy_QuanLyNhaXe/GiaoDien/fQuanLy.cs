@@ -38,30 +38,5 @@ namespace GiaoDien
         {
 
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton3_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
