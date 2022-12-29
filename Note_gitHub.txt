@@ -55,3 +55,16 @@ To https://github.com/vuongthanhtuyen/DuAnQLXe.git
    3810439..30fa45d  main -> main
 
 C:\Users\Admin\Desktop\DuAnQLXe>
+
+
+--------------------------
+--> kéo trên kia xuống
+git clone 
+
+--> Đẩy git lên
+git add .
+git commit -am "mesaage gui len"
+git push
+ 
+--> lấy git mới nhất về
+git pull 
