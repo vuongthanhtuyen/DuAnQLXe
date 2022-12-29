@@ -70,3 +70,4 @@ git push
 git pull 
 
 Tui lấy về thử xem sao
+Themfile new; in git
